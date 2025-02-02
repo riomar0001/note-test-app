@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "id": "2",
+      "title": "Meeting Notes",
+      "body": "Today's meeting covered the project timeline and task assignments. We also discussed potential risks and solutions to meet the deadlines.",
+      "createdAt": "2025-02-01T09:30:00Z",
+      "updatedAt": "2025-02-02T11:15:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Workout Plan",
+      "body": "Monday is dedicated to cardio exercises like running and cycling. On Tuesday, I will focus on strength training with weights and resistance bands.",
+      "createdAt": "2025-01-31T08:45:00Z",
+      "updatedAt": "2025-02-01T10:20:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Books to Read",
+      "body": "I want to read 'Atomic Habits' to improve my productivity and 'Clean Code' to enhance my coding skills. 'The Pragmatic Programmer' is also on my list for better software development practices.",
+      "createdAt": "2025-01-30T14:00:00Z",
+      "updatedAt": "2025-02-02T09:50:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Travel Plans",
+      "body": "I am planning a trip to Japan in April and need to book flights and hotels. Additionally, I should research local attractions and food spots in Tokyo and Kyoto.",
+      "createdAt": "2025-01-29T13:10:00Z",
+      "updatedAt": "2025-02-02T08:40:00Z"
+    }
+  ]
+}
